@@ -18,4 +18,4 @@ while True:
     choice = input("Tiếp tục chương trình? (y/n): ")
     if choice == "n" or choice == "N":
             print("Chương trình kết thúc")
-            break
+            exit()
